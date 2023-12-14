@@ -37,6 +37,7 @@ yarn-error.log*
 .env.local*
 
 # custom
+.vscode
 # Created by https://www.toptal.com/developers/gitignore/api/webstorm+all,vue,vuejs
 # Edit at https://www.toptal.com/developers/gitignore?templates=webstorm+all,vue,vuejs
 
